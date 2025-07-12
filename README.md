@@ -44,5 +44,6 @@ Watch the demo:
   - **Unipile** – LinkedIn messaging automation
   - **Mailivery** – email warmup
   - **SMTP** – transactional email delivery
+  - **Rapid API** – extracting linkedin information from a profile   
 
 ---
